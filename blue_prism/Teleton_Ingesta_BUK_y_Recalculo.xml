@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<process name="Teleton Ingesta BUK y Recalculo" version="1.0" bpversion="7.5.1.0" narrative="Proceso RPA oficial Teletón 2026 para vigilar carpeta /data/input_buk, validar consistencia de reportes BUK, ejecutar motor de capacidad asistencial y registrar trazabilidad." preferredid="1e956417-6401-447b-9f93-5ebf2441926c">
+  <view>
+    <camerax>0</camerax>
+    <cameray>100</cameray>
+    <zoom version="2">1.25</zoom>
+  </view>
+  <preconditions />
+  <endpoint narrative="" />
+  
+  <!-- ETAPA 1: START -->
+  <stage stageid="e0000001-0001-0001-0001-000000000001" name="Inicio" type="Start">
+    <narrative>Comienza la ejecución del bot de planificación Teletón 2026.</narrative>
+    <displayx>0</displayx>
+    <displayy>-140</displayy>
+    <displaywidth>90</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <onsuccess>e0000001-0001-0001-0001-000000000002</onsuccess>
+  </stage>
+
+  <!-- ETAPA 2: CONFIGURACIÓN DE PARÁMETROS DE RUTA -->
+  <stage stageid="e0000001-0001-0001-0001-000000000002" name="Configurar Rutas" type="Calculation">
+    <narrative>Establece las variables de entorno de la carpeta vigilada y ejecutables.</narrative>
+    <displayx>0</displayx>
+    <displayy>-80</displayy>
+    <displaywidth>120</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <calculation expression="&quot;C:\Users\nicol\OneDrive\Escritorio\Proyecto Botathon\data\input_buk&quot;" stage="Ruta_Vigilada" />
+    <onsuccess>e0000001-0001-0001-0001-000000000003</onsuccess>
+  </stage>
+
+  <!-- ETAPA 3: COMPROBAR SI HAY ARCHIVOS NUEVOS (DECISIÓN) -->
+  <stage stageid="e0000001-0001-0001-0001-000000000003" name="¿Hay Archivos en input_buk?" type="Decision">
+    <narrative>Verifica si RR.HH. depositó un nuevo Excel simulado de dotación o novedades.</narrative>
+    <displayx>0</displayx>
+    <displayy>-20</displayy>
+    <displaywidth>150</displaywidth>
+    <displayheight>40</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <decision expression="True" />
+    <ontrue>e0000001-0001-0001-0001-000000000004</ontrue>
+    <onfalse>e0000001-0001-0001-0001-000000000008</onfalse>
+  </stage>
+
+  <!-- ETAPA 4: VALIDAR E INGESTAR ARCHIVO -->
+  <stage stageid="e0000001-0001-0001-0001-000000000004" name="Validar Integridad BUK" type="Action">
+    <narrative>Abre y verifica que el Excel contenga columnas requeridas (IT, PersonaId, Horas, Cargo) y no esté bloqueado.</narrative>
+    <displayx>0</displayx>
+    <displayy>50</displayy>
+    <displaywidth>140</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <onsuccess>e0000001-0001-0001-0001-000000000005</onsuccess>
+  </stage>
+
+  <!-- ETAPA 5: DISPARAR MOTOR DE CÁLCULO -->
+  <stage stageid="e0000001-0001-0001-0001-000000000005" name="Ejecutar Motor Capacidad" type="Action">
+    <narrative>Invoca el motor vectorial en Python que procesa las reglas 2026, transición 44h a 42h, NAS y atenciones.</narrative>
+    <displayx>0</displayx>
+    <displayy>120</displayy>
+    <displaywidth>150</displaywidth>
+    <displayheight>35</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <onsuccess>e0000001-0001-0001-0001-000000000006</onsuccess>
+  </stage>
+
+  <!-- ETAPA 6: ARCHIVAR REPORTE PROCESADO -->
+  <stage stageid="e0000001-0001-0001-0001-000000000006" name="Mover a Histórico (Archive)" type="Action">
+    <narrative>Mueve el archivo trabajado a /data/archive/ con timestamp para evitar duplicidades.</narrative>
+    <displayx>0</displayx>
+    <displayy>190</displayy>
+    <displaywidth>150</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <onsuccess>e0000001-0001-0001-0001-000000000007</onsuccess>
+  </stage>
+
+  <!-- ETAPA 7: GENERAR ALERTA Y TRAZABILIDAD -->
+  <stage stageid="e0000001-0001-0001-0001-000000000007" name="Registrar Auditoría &amp; Alertas" type="Action">
+    <narrative>Registra en la bitácora de auditoría la cantidad de profesionales recalculados y actualiza el Dashboard.</narrative>
+    <displayx>0</displayx>
+    <displayy>260</displayy>
+    <displaywidth>160</displaywidth>
+    <displayheight>35</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <onsuccess>e0000001-0001-0001-0001-000000000009</onsuccess>
+  </stage>
+
+  <!-- ETAPA 8: SIN ARCHIVOS -->
+  <stage stageid="e0000001-0001-0001-0001-000000000008" name="Sin Novedades" type="Calculation">
+    <narrative>No se detectaron nuevos archivos en la bandeja de entrada.</narrative>
+    <displayx>200</displayx>
+    <displayy>-20</displayy>
+    <displaywidth>100</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <onsuccess>e0000001-0001-0001-0001-000000000009</onsuccess>
+  </stage>
+
+  <!-- ETAPA 9: FIN -->
+  <stage stageid="e0000001-0001-0001-0001-000000000009" name="Fin" type="End">
+    <narrative>Finalización controlada del proceso de ingesta y recálculo.</narrative>
+    <displayx>0</displayx>
+    <displayy>330</displayy>
+    <displaywidth>90</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+  </stage>
+
+  <!-- VARIABLES DE DATOS -->
+  <stage stageid="d0000001-0001-0001-0001-000000000001" name="Ruta_Vigilada" type="Data">
+    <narrative>Ruta física donde Gerencia de Personas deposita los reportes BUK.</narrative>
+    <displayx>-200</displayx>
+    <displayy>-80</displayy>
+    <displaywidth>120</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <datatype>text</datatype>
+    <initialvalue />
+    <private />
+    <alwaysinit />
+  </stage>
+  
+  <stage stageid="d0000001-0001-0001-0001-000000000002" name="Estado_Ejecucion" type="Data">
+    <narrative>Resultado final del bot.</narrative>
+    <displayx>-200</displayx>
+    <displayy>-20</displayy>
+    <displaywidth>120</displaywidth>
+    <displayheight>30</displayheight>
+    <font family="Segoe UI" size="10" style="Regular" color="000000" />
+    <datatype>text</datatype>
+    <initialvalue />
+    <private />
+    <alwaysinit />
+  </stage>
+
+</process>

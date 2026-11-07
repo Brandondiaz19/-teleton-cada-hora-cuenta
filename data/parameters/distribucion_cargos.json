@@ -1,0 +1,1934 @@
+{
+  "ANALISTA UNIDAD LABORAL ULAB": {
+    "especialidad": "ULAB",
+    "unidad": "UNIDAD LABORAL",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    }
+  },
+  "ASESOR DE EMPRENDIMIENTO": {
+    "especialidad": "ULAB",
+    "unidad": "UNIDAD LABORAL",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    }
+  },
+  "PROFESIONAL PARA LA GESTION DE INCLUSION LABORAL": {
+    "especialidad": "ULAB",
+    "unidad": "UNIDAD LABORAL",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    }
+  },
+  "COORDINADOR ULAB": {
+    "especialidad": "ULAB",
+    "unidad": "UNIDAD LABORAL",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    }
+  },
+  "EDUCADOR ULAB": {
+    "especialidad": "",
+    "unidad": "UNIDAD LABORAL",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    }
+  },
+  "GESTOR DE CAPACITACION": {
+    "especialidad": "ULAB",
+    "unidad": "UNIDAD LABORAL",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    }
+  },
+  "GESTOR LABORAL": {
+    "especialidad": "",
+    "unidad": "UNIDAD LABORAL",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    }
+  },
+  "TERAPEUTA OCUPACIONAL ULAB": {
+    "especialidad": "",
+    "unidad": "UNIDAD LABORAL",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    }
+  },
+  "TERAPEUTA OCUPACIONAL ULAB ULAB": {
+    "especialidad": "",
+    "unidad": "UNIDAD LABORAL",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    }
+  },
+  "COORDINADOR DE TELEREHABILITACION": {
+    "especialidad": "ULAB",
+    "unidad": "TELEREHABILITACIÓN",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.4,
+      "pct_ind": 0.1,
+      "pct_nas": 0.5
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.4,
+      "pct_ind": 0.1,
+      "pct_nas": 0.5
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.4,
+      "pct_ind": 0.1,
+      "pct_nas": 0.5
+    }
+  },
+  "JEFE UNIDAD TERAPIAS ARTISTICAS CREATIVAS": {
+    "especialidad": "UTAC",
+    "unidad": "ARTE",
+    "minutos_std_directa": 60,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    }
+  },
+  "PROFESOR DE MUSICA": {
+    "especialidad": "UTAC",
+    "unidad": "ARTE",
+    "minutos_std_directa": 60,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.55,
+      "pct_ind": 0.15,
+      "pct_nas": 0.3
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.6,
+      "pct_ind": 0.15,
+      "pct_nas": 0.25
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.1,
+      "pct_nas": 0.15
+    }
+  },
+  "PROFESOR DE TEATRO": {
+    "especialidad": "UTAC",
+    "unidad": "ARTE",
+    "minutos_std_directa": 60,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.55,
+      "pct_ind": 0.15,
+      "pct_nas": 0.3
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.6,
+      "pct_ind": 0.15,
+      "pct_nas": 0.25
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.1,
+      "pct_nas": 0.15
+    }
+  },
+  "COORDINADOR DE DEPORTES": {
+    "especialidad": "UEDA",
+    "unidad": "DEPORTE",
+    "minutos_std_directa": 60,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.45,
+      "pct_ind": 0.05,
+      "pct_nas": 0.5
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.45,
+      "pct_ind": 0.05,
+      "pct_nas": 0.5
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.45,
+      "pct_ind": 0.05,
+      "pct_nas": 0.5
+    }
+  },
+  "COORDINADOR NACIONAL UEDA": {
+    "especialidad": "",
+    "unidad": "DEPORTE",
+    "minutos_std_directa": 60,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.45,
+      "pct_ind": 0.05,
+      "pct_nas": 0.5
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.45,
+      "pct_ind": 0.05,
+      "pct_nas": 0.5
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.45,
+      "pct_ind": 0.05,
+      "pct_nas": 0.5
+    }
+  },
+  "PREPARADOR FISICO": {
+    "especialidad": "UEDA",
+    "unidad": "DEPORTE",
+    "minutos_std_directa": 60,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.55,
+      "pct_ind": 0.2,
+      "pct_nas": 0.25
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.65,
+      "pct_ind": 0.15,
+      "pct_nas": 0.2
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.1,
+      "pct_nas": 0.15
+    }
+  },
+  "PROFESOR DE EDUCACION FISICA": {
+    "especialidad": "UEDA",
+    "unidad": "DEPORTE",
+    "minutos_std_directa": 60,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.55,
+      "pct_ind": 0.2,
+      "pct_nas": 0.25
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.65,
+      "pct_ind": 0.15,
+      "pct_nas": 0.2
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.1,
+      "pct_nas": 0.15
+    }
+  },
+  "DIRECTOR INSTITUTO": {
+    "especialidad": "ED",
+    "unidad": "DIRECCIÓN",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.1,
+      "pct_ind": 0.1,
+      "pct_nas": 0.8
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.1,
+      "pct_ind": 0.1,
+      "pct_nas": 0.8
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.1,
+      "pct_ind": 0.1,
+      "pct_nas": 0.8
+    }
+  },
+  "COORDINADOR DE EDUCACION": {
+    "especialidad": "ED",
+    "unidad": "EDUCACIÓN",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.4,
+      "pct_ind": 0.1,
+      "pct_nas": 0.5
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.4,
+      "pct_ind": 0.1,
+      "pct_nas": 0.5
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.4,
+      "pct_ind": 0.1,
+      "pct_nas": 0.5
+    }
+  },
+  "EDUCADOR": {
+    "especialidad": "ED",
+    "unidad": "EDUCACIÓN",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.55,
+      "pct_ind": 0.15,
+      "pct_nas": 0.3
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.6,
+      "pct_ind": 0.15,
+      "pct_nas": 0.25
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.1,
+      "pct_nas": 0.15
+    }
+  },
+  "JEFE DE EDUCACION": {
+    "especialidad": "EN",
+    "unidad": "EDUCACIÓN",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    }
+  },
+  "ENFERMERA DE GESTIÓN QUIRÚRGICA": {
+    "especialidad": "EN",
+    "unidad": "ENFERMERÍA",
+    "minutos_std_directa": 30,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    }
+  },
+  "JEFE DE SERVICIOS SOCIALES Y COMUNITARIOS": {
+    "especialidad": "EN",
+    "unidad": "EDUCACIÓN",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.1,
+      "pct_ind": 0.0,
+      "pct_nas": 0.9
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.1,
+      "pct_ind": 0.0,
+      "pct_nas": 0.9
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.1,
+      "pct_ind": 0.0,
+      "pct_nas": 0.9
+    }
+  },
+  "ENFERMERA COORDINADORA AMBULATORIO": {
+    "especialidad": "",
+    "unidad": "ENFERMERÍA",
+    "minutos_std_directa": 30,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    }
+  },
+  "ENFERMERA COORDINADORA DE HOSPITALIZADOS": {
+    "especialidad": "EN",
+    "unidad": "ENFERMERÍA",
+    "minutos_std_directa": 30,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    }
+  },
+  "JEFE TERAPIA OCUPACIONAL AC": {
+    "especialidad": "TO",
+    "unidad": "T. OCUPACIONAL",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.1,
+      "pct_ind": 0.0,
+      "pct_nas": 0.9
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.1,
+      "pct_ind": 0.0,
+      "pct_nas": 0.9
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.1,
+      "pct_ind": 0.0,
+      "pct_nas": 0.9
+    }
+  },
+  "ENFERMERO": {
+    "especialidad": "EN",
+    "unidad": "ENFERMERÍA",
+    "minutos_std_directa": 30,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.5,
+      "pct_ind": 0.2,
+      "pct_nas": 0.3
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.55,
+      "pct_ind": 0.2,
+      "pct_nas": 0.25
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.1,
+      "pct_nas": 0.15
+    }
+  },
+  "ENFERMERO COORDINADOR": {
+    "especialidad": "",
+    "unidad": "ENFERMERÍA",
+    "minutos_std_directa": 30,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    }
+  },
+  "ENCARGADA DE CALIDAD": {
+    "especialidad": "",
+    "unidad": "ENFERMERÍA",
+    "minutos_std_directa": 30,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.0,
+      "pct_ind": 0.0,
+      "pct_nas": 1.0
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.0,
+      "pct_ind": 0.0,
+      "pct_nas": 1.0
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.0,
+      "pct_ind": 0.0,
+      "pct_nas": 1.0
+    }
+  },
+  "ENFERMERA": {
+    "especialidad": "",
+    "unidad": "ENFERMERÍA",
+    "minutos_std_directa": 30,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.5,
+      "pct_ind": 0.2,
+      "pct_nas": 0.3
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.55,
+      "pct_ind": 0.2,
+      "pct_nas": 0.25
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.1,
+      "pct_nas": 0.15
+    }
+  },
+  "ENFERMERA COORDINADORA": {
+    "especialidad": "",
+    "unidad": "ENFERMERÍA",
+    "minutos_std_directa": 30,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    }
+  },
+  "JEFE DE ATENCION AL PACIENTE": {
+    "especialidad": "EN",
+    "unidad": "ENFERMERÍA",
+    "minutos_std_directa": 30,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.0,
+      "pct_ind": 0.0,
+      "pct_nas": 1.0
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.0,
+      "pct_ind": 0.0,
+      "pct_nas": 1.0
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.0,
+      "pct_ind": 0.0,
+      "pct_nas": 1.0
+    }
+  },
+  "JEFE DE ENFERMERIA": {
+    "especialidad": "EN",
+    "unidad": "ENFERMERÍA",
+    "minutos_std_directa": 30,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    }
+  },
+  "COORDINADOR NACIONAL DE LABORATORIO DE MARCHA Y MOVIMIENTO": {
+    "especialidad": "",
+    "unidad": "FISIATRÍA",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    }
+  },
+  "DIRECTOR INSTITUTO FI": {
+    "especialidad": "FI",
+    "unidad": "FISIATRÍA",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.1,
+      "pct_ind": 0.1,
+      "pct_nas": 0.8
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.1,
+      "pct_ind": 0.1,
+      "pct_nas": 0.8
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.1,
+      "pct_ind": 0.1,
+      "pct_nas": 0.8
+    }
+  },
+  "JEFE MEDICO": {
+    "especialidad": "FI",
+    "unidad": "FISIATRÍA",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    }
+  },
+  "MEDICO FISIATRA": {
+    "especialidad": "FI",
+    "unidad": "FISIATRÍA",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.65,
+      "pct_ind": 0.15,
+      "pct_nas": 0.2
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.65,
+      "pct_ind": 0.15,
+      "pct_nas": 0.2
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.65,
+      "pct_ind": 0.15,
+      "pct_nas": 0.2
+    }
+  },
+  "MEDICO FISIATRA INVEST": {
+    "especialidad": "FI",
+    "unidad": "FISIATRÍA",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.1,
+      "pct_ind": 0.0,
+      "pct_nas": 0.9
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.1,
+      "pct_ind": 0.0,
+      "pct_nas": 0.9
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.1,
+      "pct_ind": 0.0,
+      "pct_nas": 0.9
+    }
+  },
+  "MEDICO GENERAL FI": {
+    "especialidad": "FI",
+    "unidad": "FISIATRÍA",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.65,
+      "pct_ind": 0.15,
+      "pct_nas": 0.2
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.65,
+      "pct_ind": 0.15,
+      "pct_nas": 0.2
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.1,
+      "pct_nas": 0.15
+    }
+  },
+  "MEDICO HOSPITALIZADOS": {
+    "especialidad": "FI",
+    "unidad": "FISIATRÍA",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.65,
+      "pct_ind": 0.15,
+      "pct_nas": 0.2
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.65,
+      "pct_ind": 0.15,
+      "pct_nas": 0.2
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.1,
+      "pct_nas": 0.15
+    }
+  },
+  "SUBDIRECTORA MÉDICA": {
+    "especialidad": "",
+    "unidad": "FISIATRÍA",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.1,
+      "pct_ind": 0.1,
+      "pct_nas": 0.8
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.1,
+      "pct_ind": 0.1,
+      "pct_nas": 0.8
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.1,
+      "pct_ind": 0.1,
+      "pct_nas": 0.8
+    }
+  },
+  "COORDINADOR DE FONOAUDIOLOGIA": {
+    "especialidad": "",
+    "unidad": "FONOAUDIOLOGÍA",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.4,
+      "pct_ind": 0.1,
+      "pct_nas": 0.5
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.4,
+      "pct_ind": 0.1,
+      "pct_nas": 0.5
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.4,
+      "pct_ind": 0.1,
+      "pct_nas": 0.5
+    }
+  },
+  "FONOAUDIOLOGO": {
+    "especialidad": "FI",
+    "unidad": "FONOAUDIOLOGÍA",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.65,
+      "pct_ind": 0.1,
+      "pct_nas": 0.25
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.7,
+      "pct_ind": 0.1,
+      "pct_nas": 0.2
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.1,
+      "pct_nas": 0.15
+    }
+  },
+  "JEFE DE FONOAUDIOLOGIA": {
+    "especialidad": "",
+    "unidad": "FONOAUDIOLOGÍA",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    }
+  },
+  "COORDINADOR DE KINESIOLOGIA": {
+    "especialidad": "FI",
+    "unidad": "KINESIOLOGÍA",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.4,
+      "pct_ind": 0.1,
+      "pct_nas": 0.5
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.4,
+      "pct_ind": 0.1,
+      "pct_nas": 0.5
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.4,
+      "pct_ind": 0.1,
+      "pct_nas": 0.5
+    }
+  },
+  "DIRECTOR INSTITUTO KI": {
+    "especialidad": "FO",
+    "unidad": "KINESIOLOGÍA",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.1,
+      "pct_ind": 0.1,
+      "pct_nas": 0.8
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.1,
+      "pct_ind": 0.1,
+      "pct_nas": 0.8
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.1,
+      "pct_ind": 0.1,
+      "pct_nas": 0.8
+    }
+  },
+  "JEFE KINESIOLOGIA": {
+    "especialidad": "KI",
+    "unidad": "KINESIOLOGÍA",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    }
+  },
+  "KINESIOLOGO": {
+    "especialidad": "KI",
+    "unidad": "KINESIOLOGÍA",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.65,
+      "pct_ind": 0.1,
+      "pct_nas": 0.25
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.7,
+      "pct_ind": 0.1,
+      "pct_nas": 0.2
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.1,
+      "pct_nas": 0.15
+    }
+  },
+  "COORDINADOR LABORATORIO DE MARCHA Y MOVIMIENTO": {
+    "especialidad": "FO",
+    "unidad": "KINESIOLOGÍA",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    }
+  },
+  "SUB JEFE DE KINESIOLOGIA": {
+    "especialidad": "KI",
+    "unidad": "KINESIOLOGÍA",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    }
+  },
+  "JEFE MEDICO HOSPITALIZADOS": {
+    "especialidad": "KI",
+    "unidad": "MEDICO G",
+    "minutos_std_directa": 30,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.65,
+      "pct_ind": 0.15,
+      "pct_nas": 0.2
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.65,
+      "pct_ind": 0.15,
+      "pct_nas": 0.2
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.1,
+      "pct_nas": 0.15
+    }
+  },
+  "JEFE KINESIOLOGIA AC": {
+    "especialidad": "FO",
+    "unidad": "KINESIOLOGÍA",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.1,
+      "pct_ind": 0.0,
+      "pct_nas": 0.9
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.1,
+      "pct_ind": 0.0,
+      "pct_nas": 0.9
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.1,
+      "pct_ind": 0.0,
+      "pct_nas": 0.9
+    }
+  },
+  "MEDICO GENERAL": {
+    "especialidad": "KI",
+    "unidad": "MEDICO G",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.65,
+      "pct_ind": 0.15,
+      "pct_nas": 0.2
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.65,
+      "pct_ind": 0.15,
+      "pct_nas": 0.2
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.1,
+      "pct_nas": 0.15
+    }
+  },
+  "MEDICO NEUROLOGO": {
+    "especialidad": "NE",
+    "unidad": "NEUROLOGÍA",
+    "minutos_std_directa": 30,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.7,
+      "pct_ind": 0.15,
+      "pct_nas": 0.15
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.7,
+      "pct_ind": 0.15,
+      "pct_nas": 0.15
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.7,
+      "pct_ind": 0.15,
+      "pct_nas": 0.15
+    }
+  },
+  "JEFE NACIONAL DE NUTRICION": {
+    "especialidad": "NU",
+    "unidad": "NUTRICIÓN",
+    "minutos_std_directa": 30,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    }
+  },
+  "NUTRICIONISTA": {
+    "especialidad": "NU",
+    "unidad": "NUTRICIÓN",
+    "minutos_std_directa": 30,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.65,
+      "pct_ind": 0.1,
+      "pct_nas": 0.25
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.65,
+      "pct_ind": 0.15,
+      "pct_nas": 0.2
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.1,
+      "pct_nas": 0.15
+    }
+  },
+  "MEDICO ODONTOLOGO": {
+    "especialidad": "OD",
+    "unidad": "ODONTOLOGÍA",
+    "minutos_std_directa": 30,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.0,
+      "pct_nas": 0.25
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.0,
+      "pct_nas": 0.25
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.0,
+      "pct_nas": 0.25
+    }
+  },
+  "MEDICO GENERAL PE": {
+    "especialidad": "PE",
+    "unidad": "PEDIATRÍA",
+    "minutos_std_directa": 30,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.65,
+      "pct_ind": 0.15,
+      "pct_nas": 0.2
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.65,
+      "pct_ind": 0.15,
+      "pct_nas": 0.2
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.1,
+      "pct_nas": 0.15
+    }
+  },
+  "MEDICO PEDIATRA": {
+    "especialidad": "PE",
+    "unidad": "PEDIATRÍA",
+    "minutos_std_directa": 30,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.65,
+      "pct_ind": 0.15,
+      "pct_nas": 0.2
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.65,
+      "pct_ind": 0.15,
+      "pct_nas": 0.2
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.1,
+      "pct_nas": 0.15
+    }
+  },
+  "COORDINADOR MEDICO": {
+    "especialidad": "FI",
+    "unidad": "FISIATRÍA",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    }
+  },
+  "COORDINADOR DE PSICOSOCIAL": {
+    "especialidad": "PC",
+    "unidad": "PSICOLOGÍA",
+    "minutos_std_directa": 45,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.4,
+      "pct_ind": 0.1,
+      "pct_nas": 0.5
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.4,
+      "pct_ind": 0.1,
+      "pct_nas": 0.5
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.4,
+      "pct_ind": 0.1,
+      "pct_nas": 0.5
+    }
+  },
+  "COORDINADOR UNIDAD PSICOLOGIA": {
+    "especialidad": "",
+    "unidad": "PSICOLOGÍA",
+    "minutos_std_directa": 45,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.4,
+      "pct_ind": 0.1,
+      "pct_nas": 0.5
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.4,
+      "pct_ind": 0.1,
+      "pct_nas": 0.5
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.4,
+      "pct_ind": 0.1,
+      "pct_nas": 0.5
+    }
+  },
+  "PSICOLOGO": {
+    "especialidad": "PC",
+    "unidad": "PSICOLOGÍA",
+    "minutos_std_directa": 45,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.55,
+      "pct_ind": 0.15,
+      "pct_nas": 0.3
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.6,
+      "pct_ind": 0.15,
+      "pct_nas": 0.25
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.1,
+      "pct_nas": 0.15
+    }
+  },
+  "SUB JEFE DE PSICOSOCIAL": {
+    "especialidad": "PC",
+    "unidad": "PSICOLOGÍA",
+    "minutos_std_directa": 45,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    }
+  },
+  "DIRECTOR IT PS": {
+    "especialidad": "PC",
+    "unidad": "PSIQUIATRÍA",
+    "minutos_std_directa": 30,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.1,
+      "pct_ind": 0.1,
+      "pct_nas": 0.8
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.1,
+      "pct_ind": 0.1,
+      "pct_nas": 0.8
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.1,
+      "pct_ind": 0.1,
+      "pct_nas": 0.8
+    }
+  },
+  "ASISTENTE SOCIAL": {
+    "especialidad": "AS",
+    "unidad": "SERVICIO SOCIAL",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.55,
+      "pct_ind": 0.15,
+      "pct_nas": 0.3
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.6,
+      "pct_ind": 0.15,
+      "pct_nas": 0.25
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.1,
+      "pct_nas": 0.15
+    }
+  },
+  "COORDINADOR DE SERVICIOS SOCIALES Y COMUNITARIOS": {
+    "especialidad": "AS",
+    "unidad": "SERVICIO SOCIAL",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.4,
+      "pct_ind": 0.1,
+      "pct_nas": 0.5
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.4,
+      "pct_ind": 0.1,
+      "pct_nas": 0.5
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.4,
+      "pct_ind": 0.1,
+      "pct_nas": 0.5
+    }
+  },
+  "COORDINADOR UNIDAD TRABAJO SOCIAL": {
+    "especialidad": "AS",
+    "unidad": "SERVICIO SOCIAL",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.4,
+      "pct_ind": 0.1,
+      "pct_nas": 0.5
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.4,
+      "pct_ind": 0.1,
+      "pct_nas": 0.5
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.4,
+      "pct_ind": 0.1,
+      "pct_nas": 0.5
+    }
+  },
+  "JEFE PSICOSOCIAL": {
+    "especialidad": "AS",
+    "unidad": "SERVICIO SOCIAL",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    }
+  },
+  "JEFE PSICOSOCIAL AS": {
+    "especialidad": "TO",
+    "unidad": "SERVICIO SOCIAL",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    }
+  },
+  "COORDINADOR DE TERAPIA OCUPACIONAL": {
+    "especialidad": "TO",
+    "unidad": "T. OCUPACIONAL",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.4,
+      "pct_ind": 0.1,
+      "pct_nas": 0.5
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.4,
+      "pct_ind": 0.1,
+      "pct_nas": 0.5
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.4,
+      "pct_ind": 0.1,
+      "pct_nas": 0.5
+    }
+  },
+  "JEFE TERAPIA OCUPACIONAL": {
+    "especialidad": "TO",
+    "unidad": "T. OCUPACIONAL",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.3,
+      "pct_ind": 0.1,
+      "pct_nas": 0.6
+    }
+  },
+  "SUB JEFE DE TERAPIA OCUPACIONAL": {
+    "especialidad": "TO",
+    "unidad": "T. OCUPACIONAL",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.2,
+      "pct_ind": 0.1,
+      "pct_nas": 0.7
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.2,
+      "pct_ind": 0.1,
+      "pct_nas": 0.7
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.2,
+      "pct_ind": 0.1,
+      "pct_nas": 0.7
+    }
+  },
+  "TERAPEUTA OCUPACIONAL": {
+    "especialidad": "UTA",
+    "unidad": "T. OCUPACIONAL",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.65,
+      "pct_ind": 0.1,
+      "pct_nas": 0.25
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.7,
+      "pct_ind": 0.1,
+      "pct_nas": 0.2
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.1,
+      "pct_nas": 0.15
+    }
+  },
+  "COORDINADOR UTA": {
+    "especialidad": "ULAB",
+    "unidad": "TEC. ASISTIVA",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.2,
+      "pct_ind": 0.1,
+      "pct_nas": 0.7
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.2,
+      "pct_ind": 0.1,
+      "pct_nas": 0.7
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.2,
+      "pct_ind": 0.1,
+      "pct_nas": 0.7
+    }
+  },
+  "COORDINADOR UTA UTA": {
+    "especialidad": "UTA",
+    "unidad": "TEC. ASISTIVA",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.35,
+      "pct_ind": 0.15,
+      "pct_nas": 0.5
+    }
+  },
+  "DISEÑADOR INDUSTRIAL UTA": {
+    "especialidad": "UTA",
+    "unidad": "TEC. ASISTIVA",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.6,
+      "pct_ind": 0.15,
+      "pct_nas": 0.25
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.65,
+      "pct_ind": 0.15,
+      "pct_nas": 0.2
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.1,
+      "pct_nas": 0.15
+    }
+  },
+  "EDUCADOR UTA": {
+    "especialidad": "UTA",
+    "unidad": "TEC. ASISTIVA",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.6,
+      "pct_ind": 0.15,
+      "pct_nas": 0.25
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.65,
+      "pct_ind": 0.15,
+      "pct_nas": 0.2
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.1,
+      "pct_nas": 0.15
+    }
+  },
+  "INGENIERO CIVIL BIOMEDICO": {
+    "especialidad": "",
+    "unidad": "TEC. ASISTIVA",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.55,
+      "pct_ind": 0.15,
+      "pct_nas": 0.3
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.6,
+      "pct_ind": 0.15,
+      "pct_nas": 0.25
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.1,
+      "pct_nas": 0.15
+    }
+  },
+  "ARTE TERAPEUTA": {
+    "especialidad": "",
+    "unidad": "ARTE",
+    "minutos_std_directa": 60,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.55,
+      "pct_ind": 0.15,
+      "pct_nas": 0.3
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.6,
+      "pct_ind": 0.15,
+      "pct_nas": 0.25
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.1,
+      "pct_nas": 0.15
+    }
+  },
+  "MUSICOTERAPEUTA": {
+    "especialidad": "",
+    "unidad": "ARTE",
+    "minutos_std_directa": 60,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.55,
+      "pct_ind": 0.15,
+      "pct_nas": 0.3
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.6,
+      "pct_ind": 0.15,
+      "pct_nas": 0.25
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.1,
+      "pct_nas": 0.15
+    }
+  },
+  "INGENIERO CIVIL BIOMEDICO UTA": {
+    "especialidad": "UTA",
+    "unidad": "TEC. ASISTIVA",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.6,
+      "pct_ind": 0.15,
+      "pct_nas": 0.25
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.65,
+      "pct_ind": 0.15,
+      "pct_nas": 0.2
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.1,
+      "pct_nas": 0.15
+    }
+  },
+  "PROFESOR DE ARTE": {
+    "especialidad": "UTAC",
+    "unidad": "ARTE",
+    "minutos_std_directa": 60,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.55,
+      "pct_ind": 0.15,
+      "pct_nas": 0.3
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.6,
+      "pct_ind": 0.15,
+      "pct_nas": 0.25
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.1,
+      "pct_nas": 0.15
+    }
+  },
+  "PROFESOR DE DANZA": {
+    "especialidad": "UTAC",
+    "unidad": "ARTE",
+    "minutos_std_directa": 60,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.55,
+      "pct_ind": 0.15,
+      "pct_nas": 0.3
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.6,
+      "pct_ind": 0.15,
+      "pct_nas": 0.25
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.1,
+      "pct_nas": 0.15
+    }
+  },
+  "INGENIERO EN TECNOLOGÍAS DE LA REHABILITACIÓN": {
+    "especialidad": "",
+    "unidad": "TEC. ASISTIVA",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.55,
+      "pct_ind": 0.15,
+      "pct_nas": 0.3
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.6,
+      "pct_ind": 0.15,
+      "pct_nas": 0.25
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.1,
+      "pct_nas": 0.15
+    }
+  },
+  "TERAPEUTA OCUPACIONAL UTA": {
+    "especialidad": "TR",
+    "unidad": "TEC. ASISTIVA",
+    "minutos_std_directa": 40,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.6,
+      "pct_ind": 0.15,
+      "pct_nas": 0.25
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.65,
+      "pct_ind": 0.15,
+      "pct_nas": 0.2
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.75,
+      "pct_ind": 0.1,
+      "pct_nas": 0.15
+    }
+  },
+  "MEDICO NEUROCIRUJANO": {
+    "especialidad": "",
+    "unidad": "NEUROLOGÍA",
+    "minutos_std_directa": 420,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.6,
+      "pct_ind": 0.3,
+      "pct_nas": 0.10000000000000009
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.0,
+      "pct_ind": 0.0,
+      "pct_nas": 0.0
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.0,
+      "pct_ind": 0.0,
+      "pct_nas": 0.0
+    }
+  },
+  "COORDINADOR QUIRURGICO ZONA NORTE": {
+    "especialidad": "",
+    "unidad": "ORTOPEDIA",
+    "minutos_std_directa": 240,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.6,
+      "pct_ind": 0.3,
+      "pct_nas": 0.10000000000000009
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.0,
+      "pct_ind": 0.0,
+      "pct_nas": 0.0
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.0,
+      "pct_ind": 0.0,
+      "pct_nas": 0.0
+    }
+  },
+  "JEFE DE EQUIPO ORTOPEDIA EXTREMIDAD INFERIOR": {
+    "especialidad": "",
+    "unidad": "ORTOPEDIA",
+    "minutos_std_directa": 240,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.6,
+      "pct_ind": 0.3,
+      "pct_nas": 0.10000000000000009
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.0,
+      "pct_ind": 0.0,
+      "pct_nas": 0.0
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.0,
+      "pct_ind": 0.0,
+      "pct_nas": 0.0
+    }
+  },
+  "JEFE DE EQUIPO ORTOPEDIA EXTREMIDAD SUPERIOR": {
+    "especialidad": "",
+    "unidad": "ORTOPEDIA",
+    "minutos_std_directa": 240,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.6,
+      "pct_ind": 0.3,
+      "pct_nas": 0.10000000000000009
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.0,
+      "pct_ind": 0.0,
+      "pct_nas": 0.0
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.0,
+      "pct_ind": 0.0,
+      "pct_nas": 0.0
+    }
+  },
+  "MEDICO ORTOPEDISTA": {
+    "especialidad": "",
+    "unidad": "ORTOPEDIA",
+    "minutos_std_directa": 240,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.6,
+      "pct_ind": 0.3,
+      "pct_nas": 0.10000000000000009
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.0,
+      "pct_ind": 0.0,
+      "pct_nas": 0.0
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.0,
+      "pct_ind": 0.0,
+      "pct_nas": 0.0
+    }
+  },
+  "MEDICO UROLOGO": {
+    "especialidad": "",
+    "unidad": "UROLOGÍA",
+    "minutos_std_directa": 180,
+    "minutos_std_indirecta": 30,
+    "tramo_gte_40": {
+      "pct_dir": 0.6,
+      "pct_ind": 0.3,
+      "pct_nas": 0.10000000000000009
+    },
+    "tramo_22_40": {
+      "pct_dir": 0.0,
+      "pct_ind": 0.0,
+      "pct_nas": 0.0
+    },
+    "tramo_lt_22": {
+      "pct_dir": 0.0,
+      "pct_ind": 0.0,
+      "pct_nas": 0.0
+    }
+  }
+}

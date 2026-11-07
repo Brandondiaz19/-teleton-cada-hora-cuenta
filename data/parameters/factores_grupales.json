@@ -1,0 +1,27 @@
+{
+  "AS": {
+    "pct_grupal": 0.1,
+    "pacientes_san_con": 3.0,
+    "pacientes_otros": 1.5
+  },
+  "ED": {
+    "pct_grupal": 0.1,
+    "pacientes_san_con": 3.0,
+    "pacientes_otros": 1.5
+  },
+  "UEDA": {
+    "pct_grupal": 0.55,
+    "pacientes_san_con": 6.0,
+    "pacientes_otros": 3.0
+  },
+  "ULAB": {
+    "pct_grupal": 0.1,
+    "pacientes_san_con": 3.0,
+    "pacientes_otros": 1.5
+  },
+  "UTAC": {
+    "pct_grupal": 0.55,
+    "pacientes_san_con": 6.0,
+    "pacientes_otros": 3.0
+  }
+}
